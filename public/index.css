@@ -1,0 +1,6 @@
+.brif-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 calc(50% - 590px);
+    background: background;
+}
